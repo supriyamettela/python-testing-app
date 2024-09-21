@@ -4,8 +4,8 @@ class multiplication(unittest.testcase1):
 
   def test_1(self):
 
-    result =multiplication(3,4)
-    self.asserEqual(result,12)
+    result =multiplication(3,40)
+    self.asserEqual(result,120)
   def test_2(self):
 
     result =multiplication(-3,4)
